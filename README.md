@@ -7,4 +7,4 @@
 <p>pode ter alguns erros ou não ser tão eficiente assim, ja que meu conhecimento sobre algoritimos não é tão profundo</p>
 
 <p>estilização do jogo simples:</p>
-![image alt](Opera Instantâneo_2025-09-01_203017_127.0.0.1.png)
+<img width="1316" height="620" alt="img jogo da velha" src="https://github.com/user-attachments/assets/78e5286c-2c88-4457-b82a-e56d1cb415b2" />
