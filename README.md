@@ -6,5 +6,10 @@
 <p>No jogo a todo um algoritimo para analisar jogadas e comparalas com as sequencias para obter uma vitoria, a um botão para resetar e outro para troca do tema da pagina</p>
 <p>pode ter alguns erros ou não ser tão eficiente assim, ja que meu conhecimento sobre algoritimos não é tão profundo</p>
 
-<p>estilização do jogo simples:</p>
+<h2>estilização do jogo simples:</h2>
 <img width="1316" height="620" alt="img jogo da velha" src="https://github.com/user-attachments/assets/78e5286c-2c88-4457-b82a-e56d1cb415b2" />
+<h2>tema preto</h2>
+<img width="484" height="559" alt="Opera Instantâneo_2025-09-01_203017_127 0 0 1" src="https://github.com/user-attachments/assets/43f26a7a-fe1e-45ca-9687-e402833536a9" />
+<h2>tema branco</h2>
+<img width="800" height="557" alt="Opera Instantâneo_2025-09-01_203040_127 0 0 1" src="https://github.com/user-attachments/assets/1eec19a5-dec3-40ee-86df-477ba914c2a7" />
+
