@@ -7,3 +7,4 @@
 <p>pode ter alguns erros ou não ser tão eficiente assim, ja que meu conhecimento sobre algoritimos não é tão profundo</p>
 
 <p>estilização do jogo simples:</p>
+![image alt](https://raw.githubusercontent.com/KaioSerafim/jogo-da-velha-com-js/c0e5af99b0a5bdc96af15e7cd4b3a814227600c4/Opera%20Instant%C3%A2neo_2025-09-01_203017_127.0.0.1.png?token=A7SC3LCT6WZXCENJ4I3ZJTTIWYX4K)
