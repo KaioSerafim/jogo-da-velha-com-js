@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ttt_Style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&family=Press+Start+2P&display=swap"
+    rel="stylesheet">
+
+    <title>tic tac toe</title>
+    <script src="/old_woman_game.js"></script>
+</head>
+<body class="normal">
+
+    <button id="bTema">tema</button>
+
+    <header id="title">
+        <h1>Jogo Da Velha</h1>
+    </header>
+
+    <div id="Pturn">
+        È o turno do <span id="player"></span>
+    </div>
+    <!--- blocos do jogo da velha, usando div, não vejo problema, no css usando o grid para dar forma  --->
+    <section id="conteiner">
+        <div class="block" cellIndex="0"></div>
+        <div class="block" cellIndex="1"></div>
+        <div class="block" cellIndex="2"></div>
+        <div class="block" cellIndex="3"></div>
+        <div class="block" cellIndex="4"></div>
+        <div class="block" cellIndex="5"></div>
+        <div class="block" cellIndex="6"></div>
+        <div class="block" cellIndex="7"></div>
+        <div class="block" cellIndex="8"></div>
+    </section>
+    <div id="Dwinner">
+        <pre  id="winner"></pre>
+    </div>
+
+    <div id="reset">
+        <button type="reset" id="Breset">Resetar</button>
+    </div>
+
+</body>
+</html>
